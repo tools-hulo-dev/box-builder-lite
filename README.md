@@ -13,7 +13,7 @@ window.BOX_CONFIG = {
   ]
 };
 </script>
-<script src="https://cdn.jsdelivr.net/gh/tools-hulo-dev/box-builder-lite@v1.3.1/box-builder.js" integrity="sha384-r32g7tmXocceAfqr0b05XjTP6/GMZtcp+ZlLb5ixc0RWfe6RRE0cnY9eZjl29qbH" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/gh/tools-hulo-dev/box-builder-lite@v1.3.2/box-builder.js" integrity="sha384-3nseCGSgsf+0urzQYv5vsWTMdcd028a7Wlm6/dW4qvytur6rG8Id0marBVF7VS8j" crossorigin="anonymous"></script>
 ```
 
 The box product needs a product form with a Text Area "Box contents" (and "Gift message").
